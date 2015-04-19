@@ -1,0 +1,29 @@
+{
+  "name": "angular-template-cache",
+  "version": "1.0.0",
+  "description": "An example application for AngularJS $templateCache",
+  "main": "index.html",
+  "scripts": {
+    "postinstall": "bower install",
+    "start": "http-server -p 8080",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/huisenwu/angular-template-cache.git"
+  },
+  "keywords": [
+    "AngularJS",
+    "$templateCache"
+  ],
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/huisenwu/angular-template-cache/issues"
+  },
+  "homepage": "https://github.com/huisenwu/angular-template-cache",
+  "devDependencies": {
+    "bower": "^1.4.1",
+    "http-server": "^0.8.0"
+  },
+  "private": true
+}
